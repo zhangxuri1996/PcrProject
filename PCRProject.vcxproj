@@ -131,7 +131,7 @@
       <BasicRuntimeChecks>Default</BasicRuntimeChecks>
       <SupportJustMyCode>false</SupportJustMyCode>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
-      <AdditionalIncludeDirectories>F:\fectory2220727\json</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\MyProject\anitoa\PcrProject\json</AdditionalIncludeDirectories>
       <DiagnosticsFormat>Column</DiagnosticsFormat>
     </ClCompile>
     <Link>
@@ -192,7 +192,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;LID_DLL;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
-      <AdditionalIncludeDirectories>F:\fectory2220727\json</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\MyProject\anitoa\PcrProject\json</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>

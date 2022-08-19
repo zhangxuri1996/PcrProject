@@ -30,4 +30,13 @@
 *.exe
 *.out
 *.app
-123
+
+/ImgData/
+
+/Debug/
+
+/Release/
+
+/x64/
+
+/.vs/

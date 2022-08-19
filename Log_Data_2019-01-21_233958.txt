@@ -1,0 +1,72 @@
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Abort, stop Gra polling (kill timer 2)
+Current pixel max max 155, last max 100
+Current pixel max max 113, last max 100
+Ch: 1, Max read: 151, int time: 7.10
+Ch: 2, Max read: 41, int time: 7.46
+Current pixel max max 452, last max 155
+Current pixel max max 159, last max 113
+Ch: 1, Max read: 806, int time: 11.04
+Ch: 2, Max read: 88, int time: 13.77
+Current pixel max max 668, last max 452
+Current pixel max max 194, last max 159
+Ch: 1, Max read: 1248, int time: 13.52
+Ch: 2, Max read: 163, int time: 19.84
+Current pixel max max 777, last max 668
+Current pixel max max 223, last max 194
+Ch: 1, Max read: 1483, int time: 15.23
+Ch: 2, Max read: 205, int time: 25.76
+Current pixel max max 866, last max 777
+Current pixel max max 293, last max 223
+Ch: 1, Max read: 1696, int time: 16.23
+Ch: 2, Max read: 295, int time: 31.39
+Current pixel max max 917, last max 866
+Current pixel max max 337, last max 293
+Ch: 1, Max read: 1818, int time: 16.83
+Ch: 2, Max read: 336, int time: 36.88
+Current pixel max max 917, last max 917
+Current pixel max max 365, last max 337
+Ch: 1, Max read: 1845, int time: 17.34
+Ch: 2, Max read: 394, int time: 42.18
+Current pixel max max 973, last max 917
+Current pixel max max 412, last max 365
+Ch: 1, Max read: 2046, int time: 17.19
+Ch: 2, Max read: 458, int time: 47.27
+Current pixel max max 966, last max 973
+Current pixel max max 442, last max 412
+Ch: 1, Max read: 1962, int time: 17.32
+Ch: 2, Max read: 493, int time: 52.24
+Current pixel max max 961, last max 966
+Current pixel max max 474, last max 442
+Ch: 1, Max read: 1944, int time: 17.50
+Ch: 2, Max read: 540, int time: 57.06
+Current pixel max max 964, last max 961
+Current pixel max max 495, last max 474
+Ch: 1, Max read: 1909, int time: 17.80
+Ch: 2, Max read: 547, int time: 61.85
+Current pixel max max 1019, last max 964
+Current pixel max max 530, last max 495
+Ch: 1, Max read: 2035, int time: 17.69
+Ch: 2, Max read: 594, int time: 66.49
+Current pixel max max 965, last max 1019
+Current pixel max max 563, last max 530
+Ch: 1, Max read: 1962, int time: 17.81
+Ch: 2, Max read: 647, int time: 70.96
+Current pixel max max 968, last max 965
+Current pixel max max 592, last max 563
+Ch: 1, Max read: 1933, int time: 18.03
+Ch: 2, Max read: 697, int time: 75.26
+Current pixel max max 1020, last max 968
+Current pixel max max 619, last max 592
+Ch: 1, Max read: 2051, int time: 17.87
+Ch: 2, Max read: 719, int time: 79.48
+Current pixel max max 965, last max 1020
+Current pixel max max 635, last max 619
